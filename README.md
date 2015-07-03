@@ -1,4 +1,4 @@
-# Simple debounce and throttle jQuery implementations
+## Simple debounce and throttle jQuery implementations
 
 ### Usage: 
 ```

@@ -1,5 +1,4 @@
-# Debounce and throttle function's decorator plugin
-## Simple debounce and throttle implementations
+# Simple debounce and throttle jQuery implementations
 
 ### Usage: 
 ```
